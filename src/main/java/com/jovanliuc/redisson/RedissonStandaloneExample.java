@@ -6,7 +6,7 @@ import org.redisson.api.RedissonClient;
 import org.redisson.config.Config;
 import org.testng.annotations.Test;
 
-public class UseCase01 {
+public class RedissonStandaloneExample {
 
     @Test
     void test() {

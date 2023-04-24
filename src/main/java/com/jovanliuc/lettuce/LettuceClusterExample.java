@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
 
-public class UseCase02 {
+public class LettuceClusterExample {
 
     @Test void test() {
         RedisURI node1 = RedisURI.create("localhost", 7000);

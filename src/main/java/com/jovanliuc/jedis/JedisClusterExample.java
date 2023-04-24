@@ -9,7 +9,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class UseCase02 {
+public class JedisClusterExample {
 
     @Test
     void test() {

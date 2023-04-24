@@ -7,7 +7,7 @@ import redis.clients.jedis.JedisPool;
 import java.util.HashMap;
 import java.util.Map;
 
-public class UseCase01 {
+public class JedisStandaloneExample {
 
     @Test
     void test() {

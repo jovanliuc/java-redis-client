@@ -4,7 +4,7 @@ import io.lettuce.core.RedisClient;
 import io.lettuce.core.api.StatefulRedisConnection;
 import org.testng.annotations.Test;
 
-public class UseCase01 {
+public class LettuceStandaloneExample {
 
     @Test void test() {
         // Syntax: redis://[password@]host[:port][/databaseNumber]

@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.security.GeneralSecurityException;
 import java.security.KeyStore;
 
-public class UseCase03 {
+public class JedisClusterWithTLSExample {
 
     @Test void test() throws GeneralSecurityException, IOException {
         HostAndPort address = new HostAndPort("my-redis-instance.cloud.redislabs.com", 6379);
